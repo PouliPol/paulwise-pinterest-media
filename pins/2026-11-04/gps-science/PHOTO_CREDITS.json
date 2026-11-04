@@ -1,0 +1,93 @@
+[
+  {
+    "title": "YOUR GPS CAN LIE NEAR WATER",
+    "image": "01-multipath-lake.jpg",
+    "photo_source": {
+      "source": "https://commons.wikimedia.org/wiki/File:Paxson_Lake_reflection_(Unsplash).jpg",
+      "license": "CC0",
+      "author": "Nitish Meena nitishm",
+      "file": "Paxson Lake reflection (Unsplash).jpg",
+      "width": 4000,
+      "height": 2667
+    },
+    "license": "CC0"
+  },
+  {
+    "title": "WHY GPS NEEDS FOUR SATELLITES",
+    "image": "02-four-satellites.jpg",
+    "photo_source": {
+      "source": "https://commons.wikimedia.org/wiki/File:Desert_Stargazing_(Unsplash).jpg",
+      "license": "CC0",
+      "author": "Jamison McAndie jamomca",
+      "file": "Desert Stargazing (Unsplash).jpg",
+      "width": 4928,
+      "height": 3264
+    },
+    "license": "CC0"
+  },
+  {
+    "title": "MORE SATELLITES ARE NOT THE WHOLE STORY",
+    "image": "03-geometry.jpg",
+    "photo_source": {
+      "source": "https://commons.wikimedia.org/wiki/File:Sunrise_meadow_(Unsplash).jpg",
+      "license": "CC0",
+      "author": "Quinsey Sablan qsablan",
+      "file": "Sunrise meadow (Unsplash).jpg",
+      "width": 3890,
+      "height": 2605
+    },
+    "license": "CC0"
+  },
+  {
+    "title": "THE FOREST CAN HIDE SATELLITES",
+    "image": "04-forest.jpg",
+    "photo_source": {
+      "source": "https://commons.wikimedia.org/wiki/File:Moody_Forest_(Unsplash).jpg",
+      "license": "CC0",
+      "author": "Thomas Claeys thomascl",
+      "file": "Moody Forest (Unsplash).jpg",
+      "width": 6000,
+      "height": 4000
+    },
+    "license": "CC0"
+  },
+  {
+    "title": "THE SUN CAN DISRUPT GPS",
+    "image": "05-solar.jpg",
+    "photo_source": {
+      "source": "https://commons.wikimedia.org/wiki/File:Aurora_borealis_over_Lapland_(Unsplash).jpg",
+      "license": "CC0",
+      "author": "Vincent Guth vingtcent",
+      "file": "Aurora borealis over Lapland (Unsplash).jpg",
+      "width": 7360,
+      "height": 4912
+    },
+    "license": "CC0"
+  },
+  {
+    "title": "WHY GPS HEIGHT CAN DIFFER FROM A MAP",
+    "image": "06-elevation.jpg",
+    "photo_source": {
+      "source": "https://commons.wikimedia.org/wiki/File:Hikers_at_peak_(Unsplash).jpg",
+      "license": "CC0",
+      "author": "Mathias Jensen mathiasjensen",
+      "file": "Hikers at peak (Unsplash).jpg",
+      "width": 5445,
+      "height": 3630
+    },
+    "license": "CC0"
+  },
+  {
+    "title": "HOW RTK REACHES CENTIMETER ACCURACY",
+    "image": "07-rtk.jpg",
+    "photo_source": {
+      "source": "https://commons.wikimedia.org/wiki/File:GPS_antenna_and_receiver_Mount_Blue_Sky_Colorado_23_August_2023.png",
+      "license": "Public domain",
+      "author": "Brian Shaw/NOAA National Geodetic Survey",
+      "file": "GPS antenna and receiver Mount Blue Sky Colorado 23 August 2023.png",
+      "width": 1324,
+      "height": 748
+    },
+    "license": "Public domain"
+  }
+]
