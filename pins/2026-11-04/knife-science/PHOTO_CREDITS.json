@@ -1,0 +1,72 @@
+[
+  {
+    "title": "A KNIFE IS NOT A PRY BAR",
+    "image": "01-not-prybar.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gear_(Unsplash).jpg",
+    "license": "CC0",
+    "author": "Goran Ivos givos"
+  },
+  {
+    "title": "STAINLESS DOES NOT MEAN RUST-PROOF",
+    "image": "02-stainless-rust.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Benchmade_folding_knife_with_S30V_steel.jpg",
+    "license": "CC0",
+    "author": "Dirt Smurf"
+  },
+  {
+    "title": "WHY CARBON STEEL NEEDS EXTRA CARE",
+    "image": "03-carbon-steel.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fresh_Rustic_Bread_(Unsplash).jpg",
+    "license": "CC0",
+    "author": "Artur Rutkowski alienowicz"
+  },
+  {
+    "title": "HRC IS NOT A QUALITY SCORE",
+    "image": "04-hardness.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hand_made_folding_knife.jpg",
+    "license": "CC0",
+    "author": "Copyleft"
+  },
+  {
+    "title": "A SHARP EDGE NEEDS LESS FORCE",
+    "image": "05-sharp-edge.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Carved_Meat_(Unsplash).jpg",
+    "license": "CC0",
+    "author": "Benjamin Faust benjamin_faust"
+  },
+  {
+    "title": "GEOMETRY CHANGES HOW A KNIFE CUTS",
+    "image": "06-geometry.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Knife_(51008348871).jpg",
+    "license": "CC0",
+    "author": "Nolwenn Leduc"
+  },
+  {
+    "title": "A KNIFE LOCK IS NOT A SAFETY GUARANTEE",
+    "image": "07-folding-lock.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pocketknives.JPG",
+    "license": "Public domain",
+    "author": "Jeffqyzt"
+  },
+  {
+    "title": "CLEAN THE PIVOT, NOT JUST THE BLADE",
+    "image": "08-knife-pivot.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Boker_classic_pocket_knife.jpg",
+    "license": "Public domain",
+    "author": "Mxr at German Wikipedia"
+  },
+  {
+    "title": "THE BOWIE KNIFE HAS A LONG HISTORY",
+    "image": "09-bowie-history.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bowie_knife.JPG",
+    "license": "Public domain",
+    "author": "Jpogi at English Wikipedia"
+  },
+  {
+    "title": "SHARPENING REMOVES METAL",
+    "image": "10-sharpening.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sharpening_a_Blade_at_Old_Fort_Steuben.jpg",
+    "license": "Public domain",
+    "author": "Leslie Dellovade"
+  }
+]
