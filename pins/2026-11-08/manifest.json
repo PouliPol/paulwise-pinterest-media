@@ -1,0 +1,340 @@
+[
+  {
+    "asset_id": "PW-20261108-02",
+    "title": "TREAT WATER AFTER FLOODING",
+    "description": "Floodwater may carry chemical contaminants.",
+    "category": "WATER",
+    "boardId": "977492362812688901",
+    "landingUrl": "https://paulwise.online/emergency-water-systems.html",
+    "filename": "paulwise_20261108_02.jpg",
+    "sha256": "69ca8100d8c0e3fba8535a98006de8cb744845c79e94ce18929dd3f2592e828f",
+    "rights": {
+      "author": "Jocelyn Augustino",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:FEMA_-_34554_-_Pickup_truck_stranded_by_flood_water_in_Missouri.jpg",
+      "source_file": "File:FEMA - 34554 - Pickup truck stranded by flood water in Missouri.jpg",
+      "verified_on": "2026-11-07",
+      "attribution_required": false,
+      "attribution": "Jocelyn Augustino / https://commons.wikimedia.org/wiki/File:FEMA_-_34554_-_Pickup_truck_stranded_by_flood_water_in_Missouri.jpg (Public domain)",
+      "asset_id": "PW-20261108-02"
+    },
+    "font_rights": {
+      "family": "DejaVu Sans",
+      "license": "DejaVu permissive license",
+      "source": "system installed DejaVu fonts"
+    },
+    "status": "APPROVED_PENDING_HOSTING"
+  },
+  {
+    "asset_id": "PW-20261108-04",
+    "title": "FIND A WIND-SHELTERED CAMP",
+    "description": "Terrain can reduce exposure to strong gusts.",
+    "category": "CAMP",
+    "boardId": "977492362812719556",
+    "landingUrl": "https://paulwise.online/#survival",
+    "filename": "paulwise_20261108_04.jpg",
+    "sha256": "485f5b3af0e7f52537c25adc42aba793f770a68058e93500325a09633bc29e22",
+    "rights": {
+      "author": "Coconino National Forest",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Wing_Mountain_Camping_Area_FR_222_(36633075420).jpg",
+      "source_file": "File:Wing Mountain Camping Area FR 222 (36633075420).jpg",
+      "verified_on": "2026-11-07",
+      "attribution_required": false,
+      "attribution": "Coconino National Forest / https://commons.wikimedia.org/wiki/File:Wing_Mountain_Camping_Area_FR_222_(36633075420).jpg (Public domain)",
+      "asset_id": "PW-20261108-04"
+    },
+    "font_rights": {
+      "family": "DejaVu Sans",
+      "license": "DejaVu permissive license",
+      "source": "system installed DejaVu fonts"
+    },
+    "status": "APPROVED_PENDING_HOSTING"
+  },
+  {
+    "asset_id": "PW-20261108-11",
+    "title": "MATCH THE MAP TO THE LAND",
+    "description": "Confirm bends, valleys and ridgelines.",
+    "category": "NAV",
+    "boardId": "977492362812730616",
+    "landingUrl": "https://paulwise.online/#survival",
+    "filename": "paulwise_20261108_11.jpg",
+    "sha256": "611b6bcd9a6e20b5b93807881b5f99bb81cebcf61796cf615cee47481eaabd7d",
+    "rights": {
+      "author": "blmcalifornia",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Inyo_Mountain_Wilderness_(49754122802).jpg",
+      "source_file": "File:Inyo Mountain Wilderness (49754122802).jpg",
+      "verified_on": "2026-11-07",
+      "attribution_required": false,
+      "attribution": "blmcalifornia / https://commons.wikimedia.org/wiki/File:Inyo_Mountain_Wilderness_(49754122802).jpg (Public domain)",
+      "asset_id": "PW-20261108-11"
+    },
+    "font_rights": {
+      "family": "DejaVu Sans",
+      "license": "DejaVu permissive license",
+      "source": "system installed DejaVu fonts"
+    },
+    "status": "APPROVED_PENDING_HOSTING"
+  },
+  {
+    "asset_id": "PW-20261108-15",
+    "title": "KNOW THE LOCAL FIRE RULES",
+    "description": "Restrictions can change with conditions.",
+    "category": "FIELD",
+    "boardId": "977492362812719556",
+    "landingUrl": "https://paulwise.online/#survival",
+    "filename": "paulwise_20261108_15.jpg",
+    "sha256": "15a76e6d709f3d29a8e56010edff11ba143217263599253abb8956776a9675ec",
+    "rights": {
+      "author": "Yellowstone National Park",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Fire_Danger_sign_at_High_(43878344695).jpg",
+      "source_file": "File:Fire Danger sign at High (43878344695).jpg",
+      "verified_on": "2026-11-07",
+      "attribution_required": false,
+      "attribution": "Yellowstone National Park / https://commons.wikimedia.org/wiki/File:Fire_Danger_sign_at_High_(43878344695).jpg (Public domain)",
+      "asset_id": "PW-20261108-15"
+    },
+    "font_rights": {
+      "family": "DejaVu Sans",
+      "license": "DejaVu permissive license",
+      "source": "system installed DejaVu fonts"
+    },
+    "status": "APPROVED_PENDING_HOSTING"
+  },
+  {
+    "asset_id": "PW-20261108-17",
+    "title": "DO NOT TRUST WATER CLARITY",
+    "description": "Clear streams can contain pathogens.",
+    "category": "WATER",
+    "boardId": "977492362812688901",
+    "landingUrl": "https://paulwise.online/emergency-water-systems.html",
+    "filename": "paulwise_20261108_17.jpg",
+    "sha256": "05fb357745e03ad2538e3e721c0c03f14b4461a0578d9e4992dbcfabc47188d9",
+    "rights": {
+      "author": "mypubliclands",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Beaver_Creek_Wild_and_Scenic_River,_Alaska_(35799880344).jpg",
+      "source_file": "File:Beaver Creek Wild and Scenic River, Alaska (35799880344).jpg",
+      "verified_on": "2026-11-07",
+      "attribution_required": false,
+      "attribution": "mypubliclands / https://commons.wikimedia.org/wiki/File:Beaver_Creek_Wild_and_Scenic_River,_Alaska_(35799880344).jpg (Public domain)",
+      "asset_id": "PW-20261108-17"
+    },
+    "font_rights": {
+      "family": "DejaVu Sans",
+      "license": "DejaVu permissive license",
+      "source": "system installed DejaVu fonts"
+    },
+    "status": "APPROVED_PENDING_HOSTING"
+  },
+  {
+    "asset_id": "PW-20261108-21",
+    "title": "SET A ROUTE CHECKPOINT",
+    "description": "Compare actual progress to your plan.",
+    "category": "NAV",
+    "boardId": "977492362812730616",
+    "landingUrl": "https://paulwise.online/#survival",
+    "filename": "paulwise_20261108_21.jpg",
+    "sha256": "4a02f4fbe00796a2e98f58223bc4de45312ed4ba5186edc68f223c43eab912cb",
+    "rights": {
+      "author": "GlacierNPS",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Hikers_descending_the_Switchbacks_(48920660676).jpg",
+      "source_file": "File:Hikers descending the Switchbacks (48920660676).jpg",
+      "verified_on": "2026-11-07",
+      "attribution_required": false,
+      "attribution": "GlacierNPS / https://commons.wikimedia.org/wiki/File:Hikers_descending_the_Switchbacks_(48920660676).jpg (Public domain)",
+      "asset_id": "PW-20261108-21"
+    },
+    "font_rights": {
+      "family": "DejaVu Sans",
+      "license": "DejaVu permissive license",
+      "source": "system installed DejaVu fonts"
+    },
+    "status": "APPROVED_PENDING_HOSTING"
+  },
+  {
+    "asset_id": "PW-20261108-25",
+    "title": "TURN BACK BEFORE EXHAUSTION",
+    "description": "Preserve energy for the return journey.",
+    "category": "FIELD",
+    "boardId": "977492362812719556",
+    "landingUrl": "https://paulwise.online/#survival",
+    "filename": "paulwise_20261108_25.jpg",
+    "sha256": "6b98dc84baa70128b4b309629a2776f3585e73be9554de8a9191b53e8eb7ba71",
+    "rights": {
+      "author": "BLM Oregon & Washington",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Mountain_of_the_Rogue_Trail_System_(32692223710).jpg",
+      "source_file": "File:Mountain of the Rogue Trail System (32692223710).jpg",
+      "verified_on": "2026-11-07",
+      "attribution_required": false,
+      "attribution": "BLM Oregon & Washington / https://commons.wikimedia.org/wiki/File:Mountain_of_the_Rogue_Trail_System_(32692223710).jpg (Public domain)",
+      "asset_id": "PW-20261108-25"
+    },
+    "font_rights": {
+      "family": "DejaVu Sans",
+      "license": "DejaVu permissive license",
+      "source": "system installed DejaVu fonts"
+    },
+    "status": "APPROVED_PENDING_HOSTING"
+  },
+  {
+    "asset_id": "PW-20261108-26",
+    "title": "MARK YOUR VEHICLE LOCATION",
+    "description": "Save a reliable return point at the start.",
+    "category": "NAV",
+    "boardId": "977492362812730616",
+    "landingUrl": "https://paulwise.online/#survival",
+    "filename": "paulwise_20261108_26.jpg",
+    "sha256": "f99e9af02539090052f8371a7d310f88c11eaad41cc95932542b45c5ad125e3a",
+    "rights": {
+      "author": "Yellowstone National Park",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Fairy_Falls_Trailhead_parking_area_(35245613553).jpg",
+      "source_file": "File:Fairy Falls Trailhead parking area (35245613553).jpg",
+      "verified_on": "2026-11-07",
+      "attribution_required": false,
+      "attribution": "Yellowstone National Park / https://commons.wikimedia.org/wiki/File:Fairy_Falls_Trailhead_parking_area_(35245613553).jpg (Public domain)",
+      "asset_id": "PW-20261108-26"
+    },
+    "font_rights": {
+      "family": "DejaVu Sans",
+      "license": "DejaVu permissive license",
+      "source": "system installed DejaVu fonts"
+    },
+    "status": "APPROVED_PENDING_HOSTING"
+  },
+  {
+    "asset_id": "PW-20261108-30",
+    "title": "STUDY THE TRAIL EXIT OPTIONS",
+    "description": "Know alternate routes before departing.",
+    "category": "FIELD",
+    "boardId": "977492362812719556",
+    "landingUrl": "https://paulwise.online/#survival",
+    "filename": "paulwise_20261108_30.jpg",
+    "sha256": "43329b38ccdf24abeab1d2908f1afa334b3bdebc27ad31167d42b8d4aa9b90cb",
+    "rights": {
+      "author": "Bureau  of Land Management",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Table_Rocks_Wilderness_(9500473497).jpg",
+      "source_file": "File:Table Rocks Wilderness (9500473497).jpg",
+      "verified_on": "2026-11-07",
+      "attribution_required": false,
+      "attribution": "Bureau  of Land Management / https://commons.wikimedia.org/wiki/File:Table_Rocks_Wilderness_(9500473497).jpg (Public domain)",
+      "asset_id": "PW-20261108-30"
+    },
+    "font_rights": {
+      "family": "DejaVu Sans",
+      "license": "DejaVu permissive license",
+      "source": "system installed DejaVu fonts"
+    },
+    "status": "APPROVED_PENDING_HOSTING"
+  },
+  {
+    "asset_id": "PW-20261108-31",
+    "title": "WATCH FOR GPS MULTIPATH",
+    "description": "Steep rock walls can distort positioning.",
+    "category": "NAV",
+    "boardId": "977492362812730616",
+    "landingUrl": "https://paulwise.online/#survival",
+    "filename": "paulwise_20261108_31.jpg",
+    "sha256": "b3f41cde0dcc5c9b98b781b34d990cd3fabb6e6ec350ef2ffb9e01adf7eab833",
+    "rights": {
+      "author": "Yellowstone National Park",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Pinnacles_in_Grand_Canyon_of_the_Yellowstone_(29397314262).jpg",
+      "source_file": "File:Pinnacles in Grand Canyon of the Yellowstone (29397314262).jpg",
+      "verified_on": "2026-11-07",
+      "attribution_required": false,
+      "attribution": "Yellowstone National Park / https://commons.wikimedia.org/wiki/File:Pinnacles_in_Grand_Canyon_of_the_Yellowstone_(29397314262).jpg (Public domain)",
+      "asset_id": "PW-20261108-31"
+    },
+    "font_rights": {
+      "family": "DejaVu Sans",
+      "license": "DejaVu permissive license",
+      "source": "system installed DejaVu fonts"
+    },
+    "status": "APPROVED_PENDING_HOSTING"
+  },
+  {
+    "asset_id": "PW-20261108-32",
+    "title": "PLAN FOR HOT-WEATHER DEMAND",
+    "description": "Heat and exertion raise fluid needs.",
+    "category": "WATER",
+    "boardId": "977492362812688901",
+    "landingUrl": "https://paulwise.online/emergency-water-systems.html",
+    "filename": "paulwise_20261108_32.jpg",
+    "sha256": "9d8c65994e23000aa4544f5af749a01f54816ed7fe28d25cd13386ce10e37cae",
+    "rights": {
+      "author": "Grand Canyon National Park",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_National_Park,_Late_Afternoon_Hike_on_South_Kaibab_Trail_-_Flickr_-_Grand_Canyon_NPS.jpg",
+      "source_file": "File:Grand Canyon National Park, Late Afternoon Hike on South Kaibab Trail - Flickr - Grand Canyon NPS.jpg",
+      "verified_on": "2026-11-07",
+      "attribution_required": false,
+      "attribution": "Grand Canyon National Park / https://commons.wikimedia.org/wiki/File:Grand_Canyon_National_Park,_Late_Afternoon_Hike_on_South_Kaibab_Trail_-_Flickr_-_Grand_Canyon_NPS.jpg (Public domain)",
+      "asset_id": "PW-20261108-32"
+    },
+    "font_rights": {
+      "family": "DejaVu Sans",
+      "license": "DejaVu permissive license",
+      "source": "system installed DejaVu fonts"
+    },
+    "status": "APPROVED_PENDING_HOSTING"
+  },
+  {
+    "asset_id": "PW-20261108-35",
+    "title": "CHECK THUNDERSTORM TIMING",
+    "description": "Seek substantial shelter early.",
+    "category": "FIELD",
+    "boardId": "977492362812719556",
+    "landingUrl": "https://paulwise.online/#survival",
+    "filename": "paulwise_20261108_35.jpg",
+    "sha256": "393e67b228608dd840207075c06c220e6dba3b33fdcd76a662f0d856a179c898",
+    "rights": {
+      "author": "Neal Herbert",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Thunderstorm_at_sunset,_Swan_Lake_Flat_(131be191-8f68-4bfe-b846-9b8b13e58187).jpg",
+      "source_file": "File:Thunderstorm at sunset, Swan Lake Flat (131be191-8f68-4bfe-b846-9b8b13e58187).jpg",
+      "verified_on": "2026-11-07",
+      "attribution_required": false,
+      "attribution": "Neal Herbert / https://commons.wikimedia.org/wiki/File:Thunderstorm_at_sunset,_Swan_Lake_Flat_(131be191-8f68-4bfe-b846-9b8b13e58187).jpg (Public domain)",
+      "asset_id": "PW-20261108-35"
+    },
+    "font_rights": {
+      "family": "DejaVu Sans",
+      "license": "DejaVu permissive license",
+      "source": "system installed DejaVu fonts"
+    },
+    "status": "APPROVED_PENDING_HOSTING"
+  },
+  {
+    "asset_id": "PW-20261108-38",
+    "title": "REVIEW THE ROUTE WITH YOUR GROUP",
+    "description": "Agree on turnaround and regroup points.",
+    "category": "FIELD",
+    "boardId": "977492362812719556",
+    "landingUrl": "https://paulwise.online/#survival",
+    "filename": "paulwise_20261108_38.jpg",
+    "sha256": "41e8418698632c4b521b8e10832a9c6dbfdfe0dd02e7ac5778bda7423248e944",
+    "rights": {
+      "author": "BLMUtah",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Tour_group_hikes_down_the_mountain_on_a_trail_after_cave_trip_(53233794287).jpg",
+      "source_file": "File:Tour group hikes down the mountain on a trail after cave trip (53233794287).jpg",
+      "verified_on": "2026-11-07",
+      "attribution_required": false,
+      "attribution": "BLMUtah / https://commons.wikimedia.org/wiki/File:Tour_group_hikes_down_the_mountain_on_a_trail_after_cave_trip_(53233794287).jpg (Public domain)",
+      "asset_id": "PW-20261108-38"
+    },
+    "font_rights": {
+      "family": "DejaVu Sans",
+      "license": "DejaVu permissive license",
+      "source": "system installed DejaVu fonts"
+    },
+    "status": "APPROVED_PENDING_HOSTING"
+  }
+]
